@@ -8,11 +8,11 @@ set spell
 set vb t_vb=
 
 " Custom paths
-let $CONFIG='C:\Users\eohje\Google Drive\programs\vim'
-let $PROJECTS='C:\Users\eohje\Google Drive\projects'
-let $EOVIM='C:\Users\eohje\Google Drive\programs\vim\eovim.vim'
-let $BUNDLES='C:\Users\eohje\Google Drive\programs\vim\bundles.vim'
-let $SNIPPETS='C:\Users\eohje\Google Drive\programs\vim\ultisnips'
+let $CONFIG='/home/config/vimrc/'
+let $PROJECTS='/home/projects/'
+let $EOVIM='/home/config/vimrc/eovim.vim'
+let $BUNDLES='/home/config/vimrc/bundles.vim'
+%let $SNIPPETS='C:\Users\eohje\Google Drive\programs\vim\ultisnips'
 
 " Colorscheme
 colorscheme evening
